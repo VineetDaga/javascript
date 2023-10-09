@@ -44,3 +44,13 @@ console.log(+"");
 let num1,num2,num3
 
 num1 = num2 = num3 = 10
+
+console.log("33" == 33);
+console.log("33"===33);
+console.log(null == 0);
+console.log(null >0);
+console.log(null >= 0);
+
+console.log(undefined > 0);
+console.log(undefined >= 0);
+console.log(undefined == 0);
